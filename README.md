@@ -1,4 +1,4 @@
-# **Logic Building Task – 1 🧠💻
+**Logic Building Task – 1** 🧠💻
 This repository contains basic Python logic-building programs designed to strengthen problem-solving skills using real-world scenarios. 
 Each task focuses on conditional statements, loops, and string/list operations.
 
