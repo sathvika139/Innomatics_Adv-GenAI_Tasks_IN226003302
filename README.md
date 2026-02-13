@@ -19,7 +19,7 @@ Each task focuses on conditional statements, loops, and string/list operations.
 # Logical Building Task - 2
 This folder contains Python programs for basic problem-solving and data structure operations.
 
-## Topics Covered
+ **Topics Covered**
 - Unique words in a sentence
 - Highest salary from employee data
 - Finding maximum and minimum values
@@ -31,8 +31,6 @@ This folder contains Python programs for basic problem-solving and data structur
 - Dictionary key existence check
 - Average marks calculation
 
-## Purpose
-To practice Python fundamentals and logical thinking using real-world examples.
+ **Purpose** : To practice Python fundamentals and logical thinking using real-world examples.
 
-## Tools Used
-- Python 3
+**Tools Used** : Python 3
