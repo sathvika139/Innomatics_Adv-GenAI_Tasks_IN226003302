@@ -2,19 +2,19 @@
 This repository contains basic Python logic-building programs designed to strengthen problem-solving skills using real-world scenarios. 
 Each task focuses on conditional statements, loops, and string/list operations.
 
-1️⃣ User Login Check
+1.User Login Check
 
-2️⃣ Pass/Fail Analyzer
+2.Pass/Fail Analyzer
 
-3️⃣ Simple Data Cleaner
+3.Simple Data Cleaner
 
-4️⃣ Message Length Analyzer
+4.Message Length Analyzer
 
-5️⃣ Error Message Detector
+5.Error Message Detector
 
-🛠️Technologies Used: Python, Basic control structures (if-else, loops), String and list operations
+🛠️**Technologies Used**: Python, Basic control structures (if-else, loops), String and list operations
 
-🎯Learning Outcomes: Improved logical thinking, Understanding real-world problem mapping, Hands-on practice with Python fundamentals, Data cleaning and validation basics
+🎯**Learning Outcomes**: Improved logical thinking, Understanding real-world problem mapping, Hands-on practice with Python fundamentals, Data cleaning and validation basics
 
 # Logical Building Task - 2
 This folder contains Python programs for basic problem-solving and data structure operations.
@@ -55,3 +55,21 @@ This task focuses on applying Python programming concepts to real-world data pro
 - Conditional logic
 - Data validation techniques
 
+
+# Task 4: Functions with Loops
+The task focuses on implementing real-world problem statements using Python functions and loops.
+
+### Problems Covered
+
+1. Mobile Recharge Validation System
+2. Inventory Reorder Alert System
+3. Student Result Processing System 
+4. Cab Fare Estimator with Retry Option
+5. Employee Attendance Eligibility Checker  
+6. Password Strength Checker
+
+### Concepts Used:
+1.  Use of functions
+2.  Use of loops (for / while)
+3.  Conditional logic
+4.  Real-world scenario implementatio 
