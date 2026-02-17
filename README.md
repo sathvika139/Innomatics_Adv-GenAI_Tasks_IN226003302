@@ -34,3 +34,24 @@ This folder contains Python programs for basic problem-solving and data structur
  **Purpose** : To practice Python fundamentals and logical thinking using real-world examples.
 
 **Tools Used** : Python 3
+
+
+# Task 3: Python Data Processing and Analysis
+This task focuses on applying Python programming concepts to real-world data processing scenarios using core data structures such as lists, dictionaries, strings, and tuples.
+
+### Problems Covered
+
+1. Employee Performance Bonus Eligibility  
+2. Search Query Keyword Analysis  
+3. Sensor Data Validation  
+4. Email Domain Usage Analysis  
+5. Sales Spike Detection  
+6. Duplicate User ID Detection  
+
+### Concepts Used
+- Dictionaries and Lists
+- String manipulation
+- Frequency counting
+- Conditional logic
+- Data validation techniques
+
