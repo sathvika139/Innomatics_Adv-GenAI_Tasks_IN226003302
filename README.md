@@ -135,3 +135,61 @@ The task focuses on implementing real-world problem statements using Python func
 1. Implements slab-based billing system
 2. Classifies usage as Low / Moderate / High
 3. Uses return values and conditional logic
+
+
+# 📌 Task 6 – Real-Time System Simulations with Functions
+### 📖 Overview :
+This task focuses on building real-time industry-based system simulations using Python functions and logical constructs.
+
+### Concepts Used:
+1.  Functions
+2.  Conditional Logic
+3.  Loops
+4.  Lists and Dictionaries
+5.  Mathematical Operations
+6.  Percentage & Average Computation
+7.  Capacity Validation
+8.  Return Values
+
+### Each problem simulates systems used in industries like:
+1.  Smart Infrastructure
+2.  Logistics & Delivery
+3.  Entertainment & Cinema
+4.  Cloud Computing
+5.  Education Technology
+6.  Energy Management
+7.  Event Management
+
+### 🧠 Problems Implemented
+1️⃣ Smart Infrastructure – Smart Parking Lot Management System
+1. Accepts vehicle entry and exit logs
+2. Calculates total parked vehicles
+3. Identifies peak parking usage
+4. Alerts if parking exceeds capacity
+
+2️⃣ Logistics – Online Food Delivery Time Estimator
+1. Estimates delivery time based on distance
+2. Applies traffic-based delay adjustments
+3. Applies weather-based delay adjustments
+4. Displays final Estimated Time of Arrival (ETA)
+
+3️⃣ Entertainment – Movie Theatre Seat Occupancy Analyzer
+1. Calculates occupancy percentage
+2. Determines if show is Available / Almost Full / Housefull
+3. Suggests opening additional shows if occupancy is high 
+
+4️⃣ Cloud Computing – Server Load Classification System
+1. Calculates average CPU usage
+2. Classifies load as Normal / Warning / Critical
+3. Uses loop-based average calculation
+
+5️⃣ Education Technology – Smart Classroom Resource Usage Monitor
+1. Tracks usage hours of classroom resources
+2. Identifies overused resources
+3. Triggers energy alert if usage exceeds threshold
+
+6️⃣ Event Management – Online Event Registration Capacity Controller
+1. Tracks total registrations
+2. Prevents overbooking beyond capacity
+3. Activates waitlist mode when capacity is exceeded
+4. Displays confirmed and waitlisted users
